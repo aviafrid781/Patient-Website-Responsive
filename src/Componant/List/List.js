@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 import { FaCheck } from "react-icons/fa";
 const List = () => {
     return (
-        <div style={{ margin: '5px' }}>
+        <div style={{ margin: '7px',border:'1px solid #EDEBEB',borderRadius: '8px' }}>
             <h1 style={{ textAlign: 'initial', margin: '10px',fontWeight: '500',fontSize: '20px' }}>To-Do List</h1>
             <div>
 
