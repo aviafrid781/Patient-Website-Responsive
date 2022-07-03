@@ -21,9 +21,9 @@ const CovidUpdate = () => {
                         <p > Rate</p>
                         <h3>10%</h3>
                     </div>
-                    
+                    {/* another section */}
 
-                    <div style={{ backgroundColor: '#FF7594',width:'700px' ,height:'300px',color:'#FBFBFB',fontSize: '38.4072px',fontFamily: 'Poppins'}}>
+                    <div style={{  backgroundColor: '#FF7594',width:'700px' ,height:'300px',color:'#FBFBFB',fontSize: '38.4072px',fontFamily: 'Poppins'}}>
                         <p >Total infection</p>
                         <h3>500000</h3>
                         <p >Number of Death</p>
